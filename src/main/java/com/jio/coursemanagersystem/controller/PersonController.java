@@ -1,4 +1,4 @@
-package com.jio.coursemanagersystem.controlers;
+package com.jio.coursemanagersystem.controller;
 
 import com.jio.coursemanagersystem.model.Person;
 import com.jio.coursemanagersystem.service.PersonService;

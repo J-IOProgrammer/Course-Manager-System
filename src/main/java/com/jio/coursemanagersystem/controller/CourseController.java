@@ -1,8 +1,7 @@
-package com.jio.coursemanagersystem.controlers;
+package com.jio.coursemanagersystem.controller;
 
 import com.jio.coursemanagersystem.model.Course;
 import com.jio.coursemanagersystem.service.CourseService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Mono;
